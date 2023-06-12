@@ -1,0 +1,8 @@
+package org.newexample;
+
+public class Docs {
+public static void main(String[] args) {
+	int a  = 10;
+	System.out.println(a);
+}
+}
